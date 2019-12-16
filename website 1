@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>website developement </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+
+	<div class="nav-bar">
+		<ul>
+			<li><a href="">home</a></li>
+			<li><a href="">web disign<span class="arrow-down"></span></a>
+				<ul class="dropdown">
+					<li><a href="">html</a></li>
+					<li><a href="">css</a></li>
+					<li><a href="">php</a></li>
+					<li><a href="">javascript</a></li>
+				</ul>
+			</li>
+			<li><a href="">disital marketing<span class="arrow-down"></span></a>
+				<ul class="dropdown">
+					<li><a href="">seo</a></li>
+					<li><a href="">smm</a></li>
+					<li><a href="">user</a></li>
+				</ul>
+			</li>
+			<li><a href="">mobile app</a></li>
+			<li><a href="">contact us</a></li>
+			<li><a href="">blogs</a></li><li>
+				<a href="">developers</a></li>
+		</ul>
+	</div>
+	<div class="liftside">
+		
+	</div>
+</div>
+</body>
+</html>
